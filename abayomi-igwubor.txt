@@ -28,3 +28,7 @@ The Fix for Box Model;
 
 * { box-sizing: border-box}
 
+Url to the hosted site
+
+https://unbeatable-abayomi.github.io/mini-lab1/index.html
+
