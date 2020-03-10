@@ -1,0 +1,39 @@
+QUESTION 1: What is difference between an inline element and a block element?
+SOLUTION 1: Block element starts on a new line and fills up the horizontal spaces on the page ( padding and margin can be added
+             eg: <p>, <div>),
+             while the inline elements don't start on a new line instead they exist on the same line as content and tags beside
+             them, eg: <img>, <span>
+
+QUESTION 2: What happens when an element is positioned absolutely?
+SOLUTION 2: When this occure, the element is positioned automatically to its parental. Meaning that the element will be removed
+            from the normal document flow.
+
+QUESTION 3: How do I make an element take up only the amount of space it needs but also have the ability to give it a width?
+SOLUTION 2: For the above to occure, the object must have its postion to be relative.
+               
+QUESTION 4A: Name 4 elements that are diplay block by default?
+SOLUTION 4A: The elements that are diplay block by default are called block-level element, eg: <p>, <nav>, <div>, <li>
+
+QUESTION 4B: 5 Elements that display inline by default?
+SOLUTION 4B: <button>, <textarea>, <input>, <select>, <progress>.
+
+QUESTION 4C: 1 element that is display inline-block by default?
+SOLUTION 4C: <button>, <textarea>, <input>, <select>, <image>.
+
+QUESTION 4D: In your own words, explain the box model.
+SOLUTION 4C: Box modelThe CSS box model is the set of rules that decides how a CSS element’s sizes are computed as
+            you add padding, borders, and margins around the content.
+ QUESTION 4E: What is the fix for the box model? 
+ SOLUTION 4C: Universal Box sizing is used to uptain flexibilty.         
+
+
+
+
+
+
+
+
+
+
+
+

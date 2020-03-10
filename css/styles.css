@@ -1,0 +1,22 @@
+#h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    text-align: center;
+    padding-top: 20px;
+}
+table{
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+   border-color: solid #FF00FF;
+    width: 70%;
+    align-text: left;
+}
+
+th{
+  column-span: 1; 
+  background-color: #FF00FF; 
+} 
+td,tr{
+    border: 1px solid #FF00FF;
+    text-align:left;
+
